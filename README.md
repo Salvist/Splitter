@@ -10,3 +10,5 @@ Split lets you split the bill by the number of people in the group. Enter the bi
 
 #### Split and Claim
 Split and Claim is a more refined way to split the bill. This feature requires a host who will list all of the items and prices, and other people in the group who will join and claim their items. Using this feature, everyone can pay based on what they order. Do note that this requries internet.
+
+* This is intended to showcase my full-stack ability using flutter, firebase, and sqlite.
